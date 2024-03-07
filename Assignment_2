@@ -1,0 +1,827 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Trade Winds:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@400;500;600;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&display=swap"
+    />
+  </head>
+  <body>
+    <div class="home-page">
+      <section class="main-frame">
+        <header class="header">
+          <div class="header-child"></div>
+          <h1 class="logo">Greeleaf</h1>
+          <img
+            class="organic-bag-child"
+            loading="lazy"
+            alt=""
+            src="./public/vector.svg"
+          />
+
+          <div class="sub-header">
+            <div class="vector-line-parent">
+              <div class="vector-line"></div>
+              <div class="page-frame">0</div>
+            </div>
+            <img
+              class="profile-icon"
+              loading="lazy"
+              alt=""
+              src="./public/profile@2x.png"
+            />
+          </div>
+          <div class="navbar-links">
+            <div class="input-field-group">
+              <div class="home">
+                <div class="home1">Home</div>
+              </div>
+            </div>
+            <div class="input-field-group1">
+              <div class="shop">
+                <div class="shop1">Shop</div>
+              </div>
+            </div>
+            <div class="dropdown-arrow-child">
+              <div class="component-12">
+                <div class="categories">Categories</div>
+                <img
+                  class="link-node-icon"
+                  alt=""
+                  src="./public/vector-1.svg"
+                />
+              </div>
+            </div>
+            <div class="about-us">
+              <div class="about-us1">About us</div>
+            </div>
+            <div class="contact-us">
+              <div class="contact-us1">Contact us</div>
+            </div>
+          </div>
+        </header>
+      </section>
+      <section class="contact-us-info">
+        <div class="location-info">
+          <div class="newsletter-form">
+            <div class="welcome-to-greeleaf-your-susta-parent">
+              <div class="welcome-to-greeleaf-container">
+                <p class="welcome-to-greeleaf">
+                  <span>
+                    <b>
+                      <span class="welcome-to-greeleaf1"
+                        >Welcome to Greeleaf</span
+                      >
+                      <span> </span>
+                    </b>
+                  </span>
+                </p>
+                <p class="your-sustainable">
+                  <span>
+                    <span>
+                      <span>Your Sustainable</span>
+                      <b class="b"> </b>
+                    </span>
+                  </span>
+                </p>
+                <p class="shopping">Shopping</p>
+                <p class="destination">Destination</p>
+              </div>
+              <div class="discover-sustainability-embra-wrapper">
+                <div class="discover-sustainability-embra-container">
+                  <p class="discover-sustainability-embra">
+                    "Discover Sustainability. Embrace Greenleaf.
+                  </p>
+                  <p class="your-eco-friendly-haven">
+                    Your Eco-Friendly Haven for Conscious Shopping."
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="newsletter-form-inner">
+              <button class="shop-now-wrapper">
+                <div class="shop-now">SHOP NOW</div>
+              </button>
+            </div>
+          </div>
+          <img
+            class="location-info-child"
+            loading="lazy"
+            alt=""
+            src="./public/group-69@2x.png"
+          />
+        </div>
+        <div class="why-choose-greenify-wrapper">
+          <div class="why-choose-greenify">
+            <div class="why-choose-greenify-child"></div>
+            <div class="subtotal">
+              <h1 class="why-choose-greenleaf">Why Choose Greenleaf?</h1>
+            </div>
+            <div class="frame-parent">
+              <div class="wrapper-group-3-parent">
+                <div class="wrapper-group-3">
+                  <img
+                    class="wrapper-group-3-child"
+                    loading="lazy"
+                    alt=""
+                    src="./public/group-3@2x.png"
+                  />
+                </div>
+                <div class="sustainable-products-parent">
+                  <b class="sustainable-products">Sustainable Products</b>
+                  <div class="explore-our-carefully-container">
+                    <p class="explore-our-carefully">
+                      Explore our carefully curated
+                    </p>
+                    <p class="selection-of-sustainable">
+                      selection of sustainable products,
+                    </p>
+                    <p class="each-designed-to">each designed to reduce your</p>
+                    <p class="carbon-footprint">carbon footprint</p>
+                  </div>
+                </div>
+              </div>
+              <div class="wrapper-group-4-parent">
+                <div class="wrapper-group-4">
+                  <img
+                    class="wrapper-group-4-child"
+                    loading="lazy"
+                    alt=""
+                    src="./public/group-4@2x.png"
+                  />
+                </div>
+                <div class="eco-friendly-choices-parent">
+                  <b class="eco-friendly-choices">Eco-Friendly Choices</b>
+                  <div class="make-conscious-choices-container">
+                    <p class="make-conscious-choices">
+                      Make conscious choices with our
+                    </p>
+                    <p class="eco-friendly-products-knowing">
+                      eco-friendly products, knowing
+                    </p>
+                    <p class="that-your-purchases">
+                      that your purchases promote ethical
+                    </p>
+                    <p class="sourcing-and-responsible">
+                      sourcing and responsible
+                    </p>
+                    <p class="manufacturing-practices">
+                      manufacturing practices.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="wrapper-group-5-parent">
+                <div class="wrapper-group-5">
+                  <img
+                    class="wrapper-group-5-child"
+                    loading="lazy"
+                    alt=""
+                    src="./public/group-5.svg"
+                  />
+                </div>
+                <div class="high-quality-selection-parent">
+                  <b class="high-quality-selection">High-Quality Selection</b>
+                  <div class="invest-in-long-lasting-container">
+                    <p class="invest-in-long-lasting">
+                      Invest in long-lasting and reliable
+                    </p>
+                    <p class="products-that-meet">
+                      products that meet our stringent
+                    </p>
+                    <p class="quality-standards-ensuring">
+                      quality standards, ensuring your
+                    </p>
+                    <p class="satisfaction-and-the">
+                      satisfaction and the longevity of
+                    </p>
+                    <p class="your-purchases">your purchases.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="wrapper-group-6-parent">
+                <div class="wrapper-group-6">
+                  <img
+                    class="wrapper-group-6-child"
+                    loading="lazy"
+                    alt=""
+                    src="./public/group-6@2x.png"
+                  />
+                </div>
+                <div class="sustainable-packaging-parent">
+                  <b class="sustainable-packaging">Sustainable Packaging</b>
+                  <div class="our-sustainable-packaging-container">
+                    <p class="our-sustainable-packaging">
+                      Our sustainable packaging ensures
+                    </p>
+                    <p class="that-your-orders">
+                      that your orders arrive safely
+                    </p>
+                    <p class="while-minimizing-their">
+                      while minimizing their impact on
+                    </p>
+                    <p class="the-planet">the planet.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="our-best-selling-sustainable-p">
+        <div class="our-best-selling-sustainable-p-child"></div>
+        <h1 class="our-best-selling-sustainable">
+          Our Best-Selling Sustainable Products
+        </h1>
+        <div class="product-card">
+          <div class="organic-cotton-tote-bag">
+            <div class="product-1-parent">
+              <div class="product-1">
+                <img class="back-icon" alt="" src="./public/back@2x.png" />
+
+                <img
+                  class="front-icon"
+                  loading="lazy"
+                  alt=""
+                  src="./public/front@2x.png"
+                />
+              </div>
+              <div class="checkout-page-header">
+                <div class="address-form-frame">
+                  <h3 class="organic-cotton-tote">Organic cotton tote bag</h3>
+                  <div class="frame-group">
+                    <div class="rs-parent">
+                      <div class="rs">50 Rs.</div>
+                      <div class="rs-wrapper">
+                        <b class="rs1">70 Rs.</b>
+                      </div>
+                    </div>
+                    <div class="reviews">165 Reviews</div>
+                  </div>
+                </div>
+                <button class="greenleaf-logo">
+                  <div class="buy-now">BUY NOW</div>
+                </button>
+              </div>
+            </div>
+            <div class="product-2-parent">
+              <div class="product-2">
+                <img class="back-icon1" alt="" src="./public/back-1@2x.png" />
+
+                <img class="front-icon1" alt="" src="./public/front-1@2x.png" />
+              </div>
+              <div class="button">
+                <div class="product-image">
+                  <div class="section">
+                    <h3 class="organic-backpack">Organic backpack</h3>
+                  </div>
+                  <div class="stock-status">
+                    <div class="add-to-wishlist-button">
+                      <div class="rs2">999 Rs.</div>
+                      <div class="social-sharing-icons">
+                        <b class="rs3">1199 Rs.</b>
+                      </div>
+                    </div>
+                    <div class="reviews1">183 Reviews</div>
+                  </div>
+                </div>
+                <button class="review-form">
+                  <div class="buy-now1">BUY NOW</div>
+                </button>
+              </div>
+            </div>
+            <div class="product-3-parent">
+              <div class="product-3">
+                <img class="back-icon2" alt="" src="./public/back-2@2x.png" />
+
+                <img class="front-icon2" alt="" src="./public/front-2@2x.png" />
+              </div>
+              <div class="frame-container">
+                <div class="organic-cotton-t-shirts-parent">
+                  <h3 class="organic-cotton-t-shirts">
+                    Organic cotton T-shirts
+                  </h3>
+                  <div class="frame-div">
+                    <div class="rs-group">
+                      <div class="rs4">499 Rs.</div>
+                      <div class="child-star-rating">
+                        <b class="rs5">699 Rs.</b>
+                      </div>
+                    </div>
+                    <div class="reviews2">340 Reviews</div>
+                  </div>
+                </div>
+                <div class="frame-wrapper">
+                  <button class="buy-now-wrapper">
+                    <div class="buy-now2">BUY NOW</div>
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div class="product-4-parent">
+              <div class="product-4">
+                <img class="back-icon3" alt="" src="./public/back-3@2x.png" />
+
+                <img class="front-icon3" alt="" src="./public/front-3@2x.png" />
+              </div>
+              <h3 class="bamboo-toothbrush">Bamboo toothbrush</h3>
+              <div class="flex-item">
+                <div class="parent-organic-cotton-tote-bag">
+                  <div class="child-rs">
+                    <div class="rs6">99 Rs.</div>
+                    <div class="child-star-rating1">
+                      <b class="rs7">149 Rs.</b>
+                    </div>
+                  </div>
+                  <div class="reviews3">124 Reviews</div>
+                </div>
+                <button class="child-title">
+                  <div class="buy-now3">BUY NOW</div>
+                </button>
+              </div>
+            </div>
+            <div class="product-5-parent">
+              <div class="product-5">
+                <img class="back-icon4" alt="" src="./public/back-4@2x.png" />
+
+                <img class="front-icon4" alt="" src="./public/front-4@2x.png" />
+              </div>
+              <div class="frame-parent1">
+                <div class="bamboo-pens-and-pencils-parent">
+                  <h3 class="bamboo-pens-and">Bamboo pens and pencils</h3>
+                  <div class="frame-parent2">
+                    <div class="rs-container">
+                      <div class="rs8">49 Rs.</div>
+                      <div class="rs-frame">
+                        <b class="rs9">89 Rs.</b>
+                      </div>
+                    </div>
+                    <div class="reviews4">100 Reviews</div>
+                  </div>
+                </div>
+                <div class="frame-wrapper1">
+                  <button class="buy-now-container">
+                    <div class="buy-now4">BUY NOW</div>
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div class="product-6-parent">
+              <div class="product-6">
+                <img class="back-icon5" alt="" src="./public/back-5@2x.png" />
+
+                <img class="front-icon5" alt="" src="./public/front-5@2x.png" />
+              </div>
+              <div class="frame-parent3">
+                <div class="frame-parent4">
+                  <div class="organic-grocery-bag-wrapper">
+                    <h3 class="organic-grocery-bag">Organic grocery bag</h3>
+                  </div>
+                  <div class="frame-parent5">
+                    <div class="rs-parent1">
+                      <div class="rs10">59 Rs.</div>
+                      <div class="rs-wrapper1">
+                        <b class="rs11">89 Rs.</b>
+                      </div>
+                    </div>
+                    <div class="reviews5">467 Reviews</div>
+                  </div>
+                </div>
+                <div class="frame-wrapper2">
+                  <button class="buy-now-frame">
+                    <div class="buy-now5">BUY NOW</div>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <button class="exploremoreframe">
+            <div class="explore-more">EXPLORE MORE</div>
+          </button>
+        </div>
+      </section>
+      <section class="aboutus">
+        <div class="about-us2">
+          <img
+            class="environment-volunteer-teamwork-icon"
+            alt=""
+            src="./public/environmentvolunteerteamworkconcept-1@2x.png"
+          />
+
+          <div class="categorieslinkgroup"></div>
+          <div class="pagestextframe">
+            <div class="shop2">
+              <h1 class="about-us3">About us</h1>
+              <button class="rectangle-parent">
+                <div class="frame-child"></div>
+                <div class="greenleaf">Greenleaf</div>
+              </button>
+            </div>
+          </div>
+          <div class="at-greenleaf-we-container">
+            <p class="at-greenleaf-we">
+              At Greenleaf, we are more than just an e-commerce website; we are
+              a passionate community dedicated to fostering a sustainable and
+              eco-friendly lifestyle.
+            </p>
+            <p class="our-mission-is">
+              Our mission is to empower environmentally conscious consumers by
+              offering a curated selection of high-quality, sustainable products
+            </p>
+            <p class="that-inspire-positive">
+              that inspire positive change and make a difference in the world.
+            </p>
+          </div>
+          <div class="headersearchfield">
+            <div class="textplaceholderrectangle">
+              <div class="imageplaceholderrectangle">
+                <div class="linetextgroup">
+                  <div class="mission-statement">Mission Statement</div>
+                  <div class="to-be-the-container">
+                    <p class="to-be-the">
+                      "To be the leading platform for sustainable living,
+                      providing eco-friendly products and fostering a green
+                      community
+                    </p>
+                    <p class="that-promotes-conscious">
+                      that promotes conscious consumption and environmental
+                      responsibility."
+                    </p>
+                  </div>
+                </div>
+                <div class="vision-statement">Vision Statement</div>
+              </div>
+              <div class="to-create-a-container">
+                <p class="to-create-a">
+                  "To create a greener future for generations to come, where
+                  every choice matters, and sustainability is at the core of
+                  everyday living.
+                </p>
+                <p class="we-envision-a">
+                  We envision a world where eco-friendly practices are the norm,
+                  and together, we can make a significant impact on the health
+                  of our planet."
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="ahmedabad-gujrat">
+            <button class="banner-frame">
+              <div class="read-more">READ MORE</div>
+            </button>
+          </div>
+        </div>
+      </section>
+      <section class="customer-reviews-wrapper">
+        <div class="customer-reviews">
+          <div class="product-title"></div>
+          <h1 class="customer-reviews1">Customer Reviews</h1>
+          <div class="text-subscribe">
+            <div class="remove-item-button">
+              <div class="vector-parent">
+                <img
+                  class="frame-item"
+                  alt=""
+                  src="./public/rectangle-12.svg"
+                />
+
+                <div class="price-display">
+                  <div class="pages-frame">
+                    <img
+                      class="pages-frame-child"
+                      loading="lazy"
+                      alt=""
+                      src="./public/ellipse-7@2x.png"
+                    />
+
+                    <div class="product-filters"></div>
+                  </div>
+                  <div class="terms-services">
+                    <h3 class="manthan-mangroliya">Manthan mangroliya</h3>
+                    <div class="i-absolutely-love-container">
+                      <p class="i-absolutely-love">
+                        "I absolutely love my Organic Cotton Tote Bag
+                      </p>
+                      <p class="from-greenify-its">
+                        from Greenify! It's not only stylish but also
+                      </p>
+                      <p class="eco-friendly-knowing-that">
+                        eco-friendly. Knowing that I'm making
+                      </p>
+                      <p class="a-positive-impact">
+                        a positive impact on the environment with
+                      </p>
+                      <p class="my-purchase-makes">
+                        my purchase makes me feel great.
+                      </p>
+                      <p class="highly-recommend-this">
+                        Highly recommend this sustainable accessory!"
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="frame-parent6">
+                  <img
+                    class="frame-inner"
+                    loading="lazy"
+                    alt=""
+                    src="./public/group-20.svg"
+                  />
+
+                  <img
+                    class="vector-group-icon"
+                    alt=""
+                    src="./public/vector-2.svg"
+                  />
+                </div>
+              </div>
+              <div class="rectangle-group">
+                <div class="rectangle-div"></div>
+                <div class="frame-parent7">
+                  <div class="frame-parent8">
+                    <div class="categories-frame-wrapper">
+                      <div class="categories-frame">
+                        <div class="review-image"></div>
+                        <img
+                          class="categories-frame-child"
+                          loading="lazy"
+                          alt=""
+                          src="./public/ellipse-8@2x.png"
+                        />
+                      </div>
+                    </div>
+                    <h3 class="het-bambhniya">Het Bambhniya</h3>
+                  </div>
+                  <div class="the-bamboo-toothbrushes-container">
+                    <p class="the-bamboo-toothbrushes">
+                      "The Bamboo Toothbrushes from Greenify are
+                    </p>
+                    <p class="a-game-changer-the">
+                      a game-changer! The quality is outstanding,
+                    </p>
+                    <p class="and-i-love">
+                      and I love the fact that they are made from
+                    </p>
+                    <p class="renewable-bamboo-my">
+                      renewable bamboo. My oral care routine just
+                    </p>
+                    <p class="got-a-lot">
+                      got a lot greener, and I couldn't be happier.
+                    </p>
+                    <p class="kudos-to-greenify">
+                      Kudos to Greenify for offering such fantastic
+                    </p>
+                    <p class="eco-friendly-products">eco-friendly products!"</p>
+                  </div>
+                </div>
+                <div class="frame-parent9">
+                  <img
+                    class="group-icon"
+                    loading="lazy"
+                    alt=""
+                    src="./public/group-20.svg"
+                  />
+
+                  <img class="vector-icon" alt="" src="./public/vector-2.svg" />
+                </div>
+              </div>
+              <div class="rectangle-container">
+                <div class="frame-child1"></div>
+                <div class="frame-wrapper3">
+                  <div class="frame-parent10">
+                    <div class="frame-wrapper4">
+                      <div class="ellipse-parent">
+                        <div class="ellipse-div"></div>
+                        <img
+                          class="ellipse-icon"
+                          loading="lazy"
+                          alt=""
+                          src="./public/ellipse-9@2x.png"
+                        />
+                      </div>
+                    </div>
+                    <h3 class="abhishek-pandy">Abhishek pandy</h3>
+                  </div>
+                </div>
+                <div class="i-recently-bought-the-hemp-bac-parent">
+                  <div class="i-recently-bought-container">
+                    <p class="i-recently-bought">
+                      "I recently bought the Hemp Backpack from
+                    </p>
+                    <p class="greenify-and-i">
+                      Greenify, and I must say it's a fantastic
+                    </p>
+                    <p class="investment-the-durability">
+                      investment. The durability of the hemp
+                    </p>
+                    <p class="material-is-impressive">
+                      material is impressive, and I feel good knowing
+                    </p>
+                    <p class="im-choosing-a">
+                      I'm choosing a sustainable alternative.
+                    </p>
+                    <p class="this-backpack-is">
+                      This backpack is perfect for my outdoor
+                    </p>
+                    <p class="adventures-and-daily">
+                      adventures and daily commutes.
+                    </p>
+                    <p class="thumbs-up-for">
+                      Thumbs up for the eco-conscious design!"
+                    </p>
+                  </div>
+                  <div class="frame-parent11">
+                    <img
+                      class="frame-child2"
+                      loading="lazy"
+                      alt=""
+                      src="./public/group-20.svg"
+                    />
+
+                    <img
+                      class="frame-icon"
+                      alt=""
+                      src="./public/vector-2.svg"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+            <img
+              class="text-subscribe-child"
+              loading="lazy"
+              alt=""
+              src="./public/group-35.svg"
+            />
+          </div>
+        </div>
+      </section>
+      <section class="newsletter-subscription-form">
+        <div class="text">
+          <img
+            class="side-view-women-carrying-fabri-icon"
+            alt=""
+            src="./public/sideviewwomencarryingfabricbags-2@2x.png"
+          />
+
+          <div class="text-child"></div>
+        </div>
+        <div class="group-div">
+          <div class="frame-child3"></div>
+          <img
+            class="mask-group-icon"
+            loading="lazy"
+            alt=""
+            src="./public/mask-group@2x.png"
+          />
+
+          <form class="join-community">
+            <div class="subscribe-to-our-newsletter-wrapper">
+              <h3 class="subscribe-to-our">"Subscribe to our Newsletter"</h3>
+            </div>
+            <div class="join-our-green-community-and-r-wrapper">
+              <div class="join-our-green-container">
+                <p class="join-our-green">
+                  Join our green community and receive exclusive offers and
+                </p>
+                <p class="insightful-content-straight">
+                  insightful content straight to your inbox!
+                </p>
+              </div>
+            </div>
+            <div class="frame-parent12">
+              <div class="text-parent">
+                <div class="text1"></div>
+                <input
+                  class="enter-your-name"
+                  placeholder="Enter your name"
+                  type="text"
+                />
+
+                <div class="line-div"></div>
+              </div>
+              <div class="rectangle-parent1">
+                <div class="frame-child4"></div>
+                <input
+                  class="enter-your-e-mail"
+                  placeholder="Enter your e-mail"
+                  type="text"
+                />
+
+                <div class="frame-child5"></div>
+              </div>
+            </div>
+            <div class="pages">
+              <button class="subscribe-wrapper">
+                <div class="subscribe">SUBSCRIBE</div>
+              </button>
+            </div>
+          </form>
+        </div>
+      </section>
+      <section class="footer">
+        <footer class="footer-child"></footer>
+        <button class="group-button">
+          <div class="frame-child6"></div>
+          <div class="greenleaf1">Greenleaf</div>
+        </button>
+        <div class="shop3">
+          <div class="about-us4">
+            <div class="contact-us2">
+              <div class="shop-link">
+                <h3 class="pages1">Pages</h3>
+                <div class="home2">
+                  <div class="vector-group">
+                    <div class="home3">Home</div>
+                    <img
+                      class="frame-icon1"
+                      alt=""
+                      src="./public/vector-5.svg"
+                    />
+                  </div>
+                  <div class="about-us5">
+                    <div class="contact-us3">
+                      <div class="shop4">Shop</div>
+                      <div class="search-form">
+                        <img
+                          class="vector-icon1"
+                          alt=""
+                          src="./public/vector-6.svg"
+                        />
+
+                        <img
+                          class="group-icon1"
+                          loading="lazy"
+                          alt=""
+                          src="./public/group.svg"
+                        />
+                      </div>
+                    </div>
+                    <div class="product-thumbnail">
+                      <div class="categories1">Categories</div>
+                      <img
+                        class="input-field-icon"
+                        alt=""
+                        src="./public/vector-7.svg"
+                      />
+                    </div>
+                  </div>
+                  <div class="contactinfo">
+                    <div class="about-us6">About us</div>
+                  </div>
+                  <div class="contact-us4">Contact us</div>
+                </div>
+              </div>
+              <div class="footer-frame">
+                <div class="terms-services1">terms & services</div>
+                <div class="greenleaf-all">
+                  Greenleaf @ all right reserved 2023
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="contact-text">
+            <h3 class="contact-us5">Contact us</h3>
+            <div class="vector">
+              <div class="contactdetails">
+                <div class="shop-frame">
+                  <img class="text-icon" alt="" src="./public/vector-8.svg" />
+
+                  <div class="infotext">+91 123456789</div>
+                </div>
+                <div class="infogreenleafcom-text">
+                  <img
+                    class="companyemail-icon"
+                    alt=""
+                    src="./public/vector-9.svg"
+                  />
+
+                  <h3 class="infogreenleafcom">info@greenleaf.com</h3>
+                </div>
+                <div class="frame-contact-us">
+                  <img
+                    class="companylocation-icon"
+                    alt=""
+                    src="./public/vector-10.svg"
+                  />
+
+                  <div class="ahmedabad-gujrat-382350">
+                    Ahmedabad, Gujrat, 382350
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
